@@ -1,0 +1,2 @@
+zoomus==1.1.6
+adafruit-circuitpython-neopixel
